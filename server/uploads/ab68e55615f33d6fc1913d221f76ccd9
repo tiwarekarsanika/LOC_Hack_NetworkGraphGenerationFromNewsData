@@ -1,0 +1,6 @@
+year,stock_a_ror,stock_b_ror,price_invested_mf,price_invested_ bond_name,price_inevested_equity,asset_name,asset_type,asset_price
+1,19,8,10000,60000,10000,SBI Mutual Fund,Mutual Fund,80000
+2,1,13,15000,1000,50000,Apple Stock,Stock,66000
+3,10,12,30000,500000,17000,INDIGO,Bond,543700
+4,32,17,6000,8000,40000,Tesla Stock,Stock,54000
+5,4,9,2500,4500,1000,HDFC Mutual Fund,Mutual Fund,8000

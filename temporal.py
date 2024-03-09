@@ -47,9 +47,9 @@ for event in events_data:
     else: event['group_color'] = 'red'
     
 # Get the degree of each node
-degrees = G.degree()
-node_with_highest_degree = max(degrees, key=lambda x: degrees[x])
-print(f"Node with the highest degree: {node_with_highest_degree}, Degree: {degrees[node_with_highest_degree]}")
+# degrees = G.degree()
+# node_with_highest_degree = max(degrees, key=lambda x: degrees[x])
+# print(f"Node with the highest degree: {node_with_highest_degree}, Degree: {degrees[node_with_highest_degree]}")
 
 #temporal proximity
 # for node, attributes in G.nodes(data=True):
